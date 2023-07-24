@@ -1,0 +1,45 @@
+*{
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.sideMenu{
+    background-color: rgb(97, 122, 206);
+    height: 500px;
+    width: 200px;
+}
+
+.addNewTask{
+    text-align: end;
+    padding: 20px;
+}
+.pop-up{
+    display: none;
+}
+li{
+    list-style: none;
+
+}
+.totalPage{
+    display: flex;
+}
+.projectbtn{
+    display: flex;
+}
+.cards{
+    background-color: aliceblue;
+    height: 50px;
+    width: 80px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+.edit{
+    height: 30px;
+    width: 80px;
+}
+/* .container1{
+    display: flex;
+    justify-content: flex-end;
+} */
